@@ -1,0 +1,37 @@
+p>{
+    color: rgb(128, 0, 255);
+    font-size: 100px;
+}
+
+a{
+  color: violet;
+}
+.pl{
+  background-color: violet;
+}
+
+.icono{
+  height: 70px;
+  width:300px ;
+}
+
+.cindex{
+  height: 600px;
+}
+.whisky{
+  height: 500px;
+}
+footer{
+  text-align: center;
+  background-color: violet;
+}
+.tb{
+  height: 400px;
+  width: 500px;
+}
+.carusel{
+  height: 500px;
+}
+.p_justificado{
+  text-align: center;
+}
